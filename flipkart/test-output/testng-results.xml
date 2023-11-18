@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="5" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-07-20T21:40:43 IST" name="Loan Department" finished-at="2023-07-20T21:40:43 IST" duration-ms="282">
+    <groups>
+    </groups>
+    <test started-at="2023-07-20T21:40:43 IST" name="Personal loan" finished-at="2023-07-20T21:40:43 IST" duration-ms="136">
+      <class name="testngtutorial.Day2">
+        <test-method is-config="true" signature="prerequiste()[pri:0, instance:testngtutorial.Day2@2e8c1c9b]" started-at="2023-07-20T21:40:43 IST" name="prerequiste" finished-at="2023-07-20T21:40:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequiste -->
+        <test-method signature="ploan()[pri:0, instance:testngtutorial.Day2@2e8c1c9b]" started-at="2023-07-20T21:40:43 IST" name="ploan" finished-at="2023-07-20T21:40:43 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploan -->
+        <test-method is-config="true" signature="prerequisteLast()[pri:0, instance:testngtutorial.Day2@2e8c1c9b]" started-at="2023-07-20T21:40:43 IST" name="prerequisteLast" finished-at="2023-07-20T21:40:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- prerequisteLast -->
+      </class> <!-- testngtutorial.Day2 -->
+      <class name="testngtutorial.Day1">
+        <test-method signature="Demo()[pri:0, instance:testngtutorial.Day1@7526515b]" started-at="2023-07-20T21:40:43 IST" name="Demo" finished-at="2023-07-20T21:40:43 IST" duration-ms="9" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Demo -->
+        <test-method signature="secondTest()[pri:0, instance:testngtutorial.Day1@7526515b]" started-at="2023-07-20T21:40:43 IST" name="secondTest" finished-at="2023-07-20T21:40:43 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondTest -->
+      </class> <!-- testngtutorial.Day1 -->
+    </test> <!-- Personal loan -->
+    <test started-at="2023-07-20T21:40:43 IST" name="Car Loan" finished-at="2023-07-20T21:40:43 IST" duration-ms="14">
+      <class name="testngtutorial.Day1">
+        <test-method is-config="true" signature="aftertest()[pri:0, instance:testngtutorial.Day1@7526515b]" started-at="2023-07-20T21:40:43 IST" name="aftertest" finished-at="2023-07-20T21:40:43 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- aftertest -->
+      </class> <!-- testngtutorial.Day1 -->
+      <class name="testngtutorial.Day3">
+        <test-method is-config="true" signature="BfSuite()[pri:0, instance:testngtutorial.Day3@3f191845]" started-at="2023-07-20T21:40:43 IST" name="BfSuite" finished-at="2023-07-20T21:40:43 IST" duration-ms="17" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- BfSuite -->
+        <test-method signature="loginAPIHomeLoan()[pri:0, instance:testngtutorial.Day3@3f191845]" started-at="2023-07-20T21:40:43 IST" name="loginAPIHomeLoan" finished-at="2023-07-20T21:40:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginAPIHomeLoan -->
+        <test-method signature="webloginHomeLoan()[pri:0, instance:testngtutorial.Day3@3f191845]" started-at="2023-07-20T21:40:43 IST" name="webloginHomeLoan" finished-at="2023-07-20T21:40:43 IST" duration-ms="2" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webloginHomeLoan -->
+      </class> <!-- testngtutorial.Day3 -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- Loan Department -->
+</testng-results>
